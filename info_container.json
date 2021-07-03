@@ -1,8 +1,8 @@
 {
     "available_space": true,
     "id": "w1",
-    "size_max": 3.1906890869140625,
-    "size_mean": 3.1906890869140625,
-    "size_min": 3.1906890869140625,
-    "total_size": 3.1906890869140625
+    "size_max": 0,
+    "size_mean": 0.0,
+    "size_min": 0,
+    "total_size": 0
 }
