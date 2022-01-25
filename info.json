@@ -1,6 +1,7 @@
 {
     "available_space": true,
-    "files": [
+    "total_size": 427.1047999999999,
+    "videos": [
         "Pesado - Perdoname-p1-AAjaiV7M.mp4",
         "Eskorbuto - Asesinar la paz-hNRkO7sWRkI.mp4",
         "Los Cadetes De Linares - Busca Otro Amor con Genaro Cruz-3RrPU4z0X70.mp4",
@@ -46,7 +47,5 @@
         "Los Invasores de Nuevo León - Hubiera Sido Ayer ( Audio Oficial )-XRPP2BU08ZE.mp4",
         "La Artillera - Control Machete-rneYdA9u4G8.mp4",
         "Peter Bjorn And John - Young Folks-iArXv64tCJA.mp4"
-    ],
-    "id": "w1",
-    "total_size": 407.318720703125
+    ]
 }
