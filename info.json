@@ -27,6 +27,11 @@
             "size": 5.696949248
         },
         {
+            "name": "When I Get Low I Get High-yp4AafZXq40.mp4",
+            "path": "music_w1/videos/When I Get Low I Get High-yp4AafZXq40.mp4",
+            "size": 5.659629568000001
+        },
+        {
             "name": "Los Hermanos Vega Bebiendo Cresco-7zNKeqeVLUA.mp4",
             "path": "music_w1/videos/Los Hermanos Vega Bebiendo Cresco-7zNKeqeVLUA.mp4",
             "size": 7.389473792
@@ -105,6 +110,11 @@
             "name": "Chuy vega Nuestro Juramento-DlIcwEhYajY.mp4",
             "path": "music_w1/videos/Chuy vega Nuestro Juramento-DlIcwEhYajY.mp4",
             "size": 3.9605288960000005
+        },
+        {
+            "name": "Delia Derbyshire - Bach's Air (Extended)-ZOC7Pf1XY54.mp4",
+            "path": "music_w1/videos/Delia Derbyshire - Bach's Air (Extended)-ZOC7Pf1XY54.mp4",
+            "size": 38.770208768
         },
         {
             "name": "Los Hermanos Vega Mi Gusto-53a8uaggpPY.mp4",
@@ -252,5 +262,5 @@
             "size": 31.583279104000002
         }
     ],
-    "total_size": 502.89013248
+    "total_size": 547.3199708159999
 }
