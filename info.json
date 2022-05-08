@@ -42,6 +42,11 @@
             "size": 18.668316672
         },
         {
+            "name": "Thomas Quasthoff & Daniel Barenboim performs Gute Nacht of Schubert's Winterreise-iJETtWr47PY.mp4",
+            "path": "music_w1/videos/Thomas Quasthoff & Daniel Barenboim performs Gute Nacht of Schubert's Winterreise-iJETtWr47PY.mp4",
+            "size": 17.102400512000003
+        },
+        {
             "name": "Chuy vega  Tarde-DHREzw1w-Qk.mp4",
             "path": "music_w1/videos/Chuy vega  Tarde-DHREzw1w-Qk.mp4",
             "size": 3.5236085760000004
@@ -237,5 +242,5 @@
             "size": 31.583279104000002
         }
     ],
-    "total_size": 467.959056384
+    "total_size": 485.0614568959999
 }
