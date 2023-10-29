@@ -1,5 +1,5 @@
 {
-    "available_space": false,
+    "available_space": true,
     "content": [
         {
             "id": "5bwgPPcisyo",
@@ -30,13 +30,6 @@
             "url": "https://github.com/circuitalmynds/music_w1/blob/main/videos/Conjunto Primavera - De Nuevo A Tu Lado-H2KeKOHYnuU.mp4?raw=true"
         },
         {
-            "id": "ZOC7Pf1XY54",
-            "name": "Delia Derbyshire - Bach's Air (Extended)-ZOC7Pf1XY54.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/w1/videos/Delia Derbyshire - Bach's Air (Extended)-ZOC7Pf1XY54.mp4",
-            "size": 37.861532,
-            "url": "https://github.com/circuitalmynds/music_w1/blob/main/videos/Delia Derbyshire - Bach's Air (Extended)-ZOC7Pf1XY54.mp4?raw=true"
-        },
-        {
             "id": "Yl4J1fjuKdg",
             "name": "Johnny Cash - Flushed From The Bathroom Of Your Heart-Yl4J1fjuKdg.mp4",
             "path": "/home/alanmatzumiya/Videos/container/w1/videos/Johnny Cash - Flushed From The Bathroom Of Your Heart-Yl4J1fjuKdg.mp4",
@@ -49,13 +42,6 @@
             "path": "/home/alanmatzumiya/Videos/container/w1/videos/Giuseppe Ferlendis - Oboe Concerto No.3 in C major-NcF4ACIH-vk.mp4",
             "size": 19.436631,
             "url": "https://github.com/circuitalmynds/music_w1/blob/main/videos/Giuseppe Ferlendis - Oboe Concerto No.3 in C major-NcF4ACIH-vk.mp4?raw=true"
-        },
-        {
-            "id": "H5s40sDP-94",
-            "name": "Thrift Shop (feat. Wanz)-H5s40sDP-94.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/w1/videos/Thrift Shop (feat. Wanz)-H5s40sDP-94.mp4",
-            "size": 8.966039,
-            "url": "https://github.com/circuitalmynds/music_w1/blob/main/videos/Thrift Shop (feat. Wanz)-H5s40sDP-94.mp4?raw=true"
         },
         {
             "id": "2Hg3rNTVTRc",
@@ -156,13 +142,6 @@
             "url": "https://github.com/circuitalmynds/music_w1/blob/main/videos/Oh, Yes, Take Another Guess-LuKrXzwtY0g.mp4?raw=true"
         },
         {
-            "id": "hnToDKeYpGc",
-            "name": "Oscar Aleman - Susurrando-hnToDKeYpGc.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/w1/videos/Oscar Aleman - Susurrando-hnToDKeYpGc.mp4",
-            "size": 2.941715,
-            "url": "https://github.com/circuitalmynds/music_w1/blob/main/videos/Oscar Aleman - Susurrando-hnToDKeYpGc.mp4?raw=true"
-        },
-        {
             "id": "yp4AafZXq40",
             "name": "When I Get Low I Get High-yp4AafZXq40.mp4",
             "path": "/home/alanmatzumiya/Videos/container/w1/videos/When I Get Low I Get High-yp4AafZXq40.mp4",
@@ -198,18 +177,18 @@
             "url": "https://github.com/circuitalmynds/music_w1/blob/main/videos/Radu Marian, Male Soprano, Rauzzini - The Rose-NadFx3ZCUbg.mp4?raw=true"
         },
         {
-            "id": "mpL6HHUAg_c",
-            "name": "Marco Antonio Solis Tú otra vez-mpL6HHUAg_c.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/w1/videos/Marco Antonio Solis Tú otra vez-mpL6HHUAg_c.mp4",
-            "size": 13.983101,
-            "url": "https://github.com/circuitalmynds/music_w1/blob/main/videos/Marco Antonio Solis Tú otra vez-mpL6HHUAg_c.mp4?raw=true"
-        },
-        {
             "id": "dIkkkvcC1EA",
             "name": "Too Much Posse-dIkkkvcC1EA.mp4",
             "path": "/home/alanmatzumiya/Videos/container/w1/videos/Too Much Posse-dIkkkvcC1EA.mp4",
             "size": 5.336836,
             "url": "https://github.com/circuitalmynds/music_w1/blob/main/videos/Too Much Posse-dIkkkvcC1EA.mp4?raw=true"
+        },
+        {
+            "id": "DucSvb7dFx4",
+            "name": "Riccardo Drigo - Le Talisman - Pas de Deux [DucSvb7dFx4].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/w1/videos/Riccardo Drigo - Le Talisman - Pas de Deux [DucSvb7dFx4].mp4",
+            "size": 14.698630999999999,
+            "url": "https://github.com/circuitalmynds/music_w1/blob/main/videos/Riccardo Drigo - Le Talisman - Pas de Deux [DucSvb7dFx4].mp4?raw=true"
         },
         {
             "id": "_Ci0Kgdpgsw",
@@ -261,6 +240,13 @@
             "url": "https://github.com/circuitalmynds/music_w1/blob/main/videos/Marco Antonio Solís - Tú Otra Vez (Animated Video)-mpL6HHUAg_c.mp4?raw=true"
         },
         {
+            "id": "ZOC7Pf1XY54",
+            "name": "Delia Derbyshire - Bach's Air (Extended) [ZOC7Pf1XY54].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/w1/videos/Delia Derbyshire - Bach's Air (Extended) [ZOC7Pf1XY54].mp4",
+            "size": 10.466695,
+            "url": "https://github.com/circuitalmynds/music_w1/blob/main/videos/Delia Derbyshire - Bach's Air (Extended) [ZOC7Pf1XY54].mp4?raw=true"
+        },
+        {
             "id": "D--9jyf6B0o",
             "name": "Todo A Pulmon-D--9jyf6B0o.mp4",
             "path": "/home/alanmatzumiya/Videos/container/w1/videos/Todo A Pulmon-D--9jyf6B0o.mp4",
@@ -268,11 +254,11 @@
             "url": "https://github.com/circuitalmynds/music_w1/blob/main/videos/Todo A Pulmon-D--9jyf6B0o.mp4?raw=true"
         },
         {
-            "id": "Ioc9shJa_lI",
-            "name": "Don Giovanni - Commendatore Scene - EN Sub (Better Quality)-Ioc9shJa_lI.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/w1/videos/Don Giovanni - Commendatore Scene - EN Sub (Better Quality)-Ioc9shJa_lI.mp4",
-            "size": 20.807285,
-            "url": "https://github.com/circuitalmynds/music_w1/blob/main/videos/Don Giovanni - Commendatore Scene - EN Sub (Better Quality)-Ioc9shJa_lI.mp4?raw=true"
+            "id": "Q9PUfJPfuy0",
+            "name": "Italo Disco Megamix (Mixed by Cabaret Nocturne) [Q9PUfJPfuy0].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/w1/videos/Italo Disco Megamix (Mixed by Cabaret Nocturne) [Q9PUfJPfuy0].mp4",
+            "size": 40.905108,
+            "url": "https://github.com/circuitalmynds/music_w1/blob/main/videos/Italo Disco Megamix (Mixed by Cabaret Nocturne) [Q9PUfJPfuy0].mp4?raw=true"
         },
         {
             "id": "wFhO9hl4h9k",
@@ -317,13 +303,6 @@
             "url": "https://github.com/circuitalmynds/music_w1/blob/main/videos/La Artillera - Control Machete-rneYdA9u4G8.mp4?raw=true"
         },
         {
-            "id": "-XgMlylPgWE",
-            "name": "Wacky Dust--XgMlylPgWE.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/w1/videos/Wacky Dust--XgMlylPgWE.mp4",
-            "size": 6.883255,
-            "url": "https://github.com/circuitalmynds/music_w1/blob/main/videos/Wacky Dust--XgMlylPgWE.mp4?raw=true"
-        },
-        {
             "id": "cToy9mpBKoc",
             "name": "Saturday Night-cToy9mpBKoc.mp4",
             "path": "/home/alanmatzumiya/Videos/container/w1/videos/Saturday Night-cToy9mpBKoc.mp4",
@@ -331,11 +310,11 @@
             "url": "https://github.com/circuitalmynds/music_w1/blob/main/videos/Saturday Night-cToy9mpBKoc.mp4?raw=true"
         },
         {
-            "id": "hVzJUtdFd-s",
-            "name": "Grant Miller - Colder than Ice-hVzJUtdFd-s.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/w1/videos/Grant Miller - Colder than Ice-hVzJUtdFd-s.mp4",
-            "size": 10.527561,
-            "url": "https://github.com/circuitalmynds/music_w1/blob/main/videos/Grant Miller - Colder than Ice-hVzJUtdFd-s.mp4?raw=true"
+            "id": "H5s40sDP-94",
+            "name": "Thrift Shop (feat. Wanz) [H5s40sDP-94].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/w1/videos/Thrift Shop (feat. Wanz) [H5s40sDP-94].mp4",
+            "size": 5.522517,
+            "url": "https://github.com/circuitalmynds/music_w1/blob/main/videos/Thrift Shop (feat. Wanz) [H5s40sDP-94].mp4?raw=true"
         },
         {
             "id": "RVMvART9kb8",
@@ -359,13 +338,6 @@
             "url": "https://github.com/circuitalmynds/music_w1/blob/main/videos/Sean Paul ft. Chico - Ganja Breed [DUTTY ROCK]-Ju9ykz3S54w.mp4?raw=true"
         },
         {
-            "id": "iJETtWr47PY",
-            "name": "Thomas Quasthoff & Daniel Barenboim performs Gute Nacht of Schubert's Winterreise-iJETtWr47PY.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/w1/videos/Thomas Quasthoff & Daniel Barenboim performs Gute Nacht of Schubert's Winterreise-iJETtWr47PY.mp4",
-            "size": 16.701563,
-            "url": "https://github.com/circuitalmynds/music_w1/blob/main/videos/Thomas Quasthoff & Daniel Barenboim performs Gute Nacht of Schubert's Winterreise-iJETtWr47PY.mp4?raw=true"
-        },
-        {
             "id": "WsYFVxOqKMs",
             "name": "A Man Inside My Mouth-WsYFVxOqKMs.mp4",
             "path": "/home/alanmatzumiya/Videos/container/w1/videos/A Man Inside My Mouth-WsYFVxOqKMs.mp4",
@@ -373,18 +345,11 @@
             "url": "https://github.com/circuitalmynds/music_w1/blob/main/videos/A Man Inside My Mouth-WsYFVxOqKMs.mp4?raw=true"
         },
         {
-            "id": "KpwD6Ohzp0Y",
-            "name": "Ray Noble Coty Broadcast - March 13, 1935-KpwD6Ohzp0Y.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/w1/videos/Ray Noble Coty Broadcast - March 13, 1935-KpwD6Ohzp0Y.mp4",
-            "size": 30.843045999999998,
-            "url": "https://github.com/circuitalmynds/music_w1/blob/main/videos/Ray Noble Coty Broadcast - March 13, 1935-KpwD6Ohzp0Y.mp4?raw=true"
-        },
-        {
-            "id": "Q9PUfJPfuy0",
-            "name": "Italo Disco Megamix (Mixed by Cabaret Nocturne)-Q9PUfJPfuy0.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/w1/videos/Italo Disco Megamix (Mixed by Cabaret Nocturne)-Q9PUfJPfuy0.mp4",
-            "size": 88.98181799999999,
-            "url": "https://github.com/circuitalmynds/music_w1/blob/main/videos/Italo Disco Megamix (Mixed by Cabaret Nocturne)-Q9PUfJPfuy0.mp4?raw=true"
+            "id": "-XgMlylPgWE",
+            "name": "Wacky Dust [-XgMlylPgWE].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/w1/videos/Wacky Dust [-XgMlylPgWE].mp4",
+            "size": 6.8132019999999995,
+            "url": "https://github.com/circuitalmynds/music_w1/blob/main/videos/Wacky Dust [-XgMlylPgWE].mp4?raw=true"
         },
         {
             "id": "rHHEUyWJXhM",
@@ -427,6 +392,13 @@
             "path": "/home/alanmatzumiya/Videos/container/w1/videos/Tragatelo - resiste la colonizacion-i5fFOOMyjWA.mp4",
             "size": 1.72726,
             "url": "https://github.com/circuitalmynds/music_w1/blob/main/videos/Tragatelo - resiste la colonizacion-i5fFOOMyjWA.mp4?raw=true"
+        },
+        {
+            "id": "Ioc9shJa_lI",
+            "name": "Don Giovanni - Commendatore Scene - EN Sub (Better Quality) [Ioc9shJa_lI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/w1/videos/Don Giovanni - Commendatore Scene - EN Sub (Better Quality) [Ioc9shJa_lI].mp4",
+            "size": 12.892016,
+            "url": "https://github.com/circuitalmynds/music_w1/blob/main/videos/Don Giovanni - Commendatore Scene - EN Sub (Better Quality) [Ioc9shJa_lI].mp4?raw=true"
         },
         {
             "id": "JphZtpafdKY",
@@ -485,13 +457,6 @@
             "url": "https://github.com/circuitalmynds/music_w1/blob/main/videos/João Gilberto - 07 - Trevo de quatro folhas-Ql8A6uroaCE.mp4?raw=true"
         },
         {
-            "id": "rHHEUyWJXhM",
-            "name": "Creedence Clearwater Revival - Sweet Hitch-Hiker-rHHEUyWJXhM.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/w1/videos/Creedence Clearwater Revival - Sweet Hitch-Hiker-rHHEUyWJXhM.mp4",
-            "size": 35.108395,
-            "url": "https://github.com/circuitalmynds/music_w1/blob/main/videos/Creedence Clearwater Revival - Sweet Hitch-Hiker-rHHEUyWJXhM.mp4?raw=true"
-        },
-        {
             "id": "RV6n7SYu19o",
             "name": "Secret Service — Ye Si Ca (OFFICIAL VIDEO, 1981)-RV6n7SYu19o.mp4",
             "path": "/home/alanmatzumiya/Videos/container/w1/videos/Secret Service — Ye Si Ca (OFFICIAL VIDEO, 1981)-RV6n7SYu19o.mp4",
@@ -520,26 +485,12 @@
             "url": "https://github.com/circuitalmynds/music_w1/blob/main/videos/Los Cadetes de Linares - Las Tres Tumbas (En Vivo Desde Houston, Tx)-ul_FefigLaE.mp4?raw=true"
         },
         {
-            "id": "DucSvb7dFx4",
-            "name": "Riccardo Drigo - Le Talisman - Pas de Deux-DucSvb7dFx4.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/w1/videos/Riccardo Drigo - Le Talisman - Pas de Deux-DucSvb7dFx4.mp4",
-            "size": 18.230778,
-            "url": "https://github.com/circuitalmynds/music_w1/blob/main/videos/Riccardo Drigo - Le Talisman - Pas de Deux-DucSvb7dFx4.mp4?raw=true"
-        },
-        {
             "id": "UfNBpNWWhak",
             "name": "Transplants - Gangsters and Thugs (Music Video)-UfNBpNWWhak.mp4",
             "path": "/home/alanmatzumiya/Videos/container/w1/videos/Transplants - Gangsters and Thugs (Music Video)-UfNBpNWWhak.mp4",
             "size": 11.838433,
             "url": "https://github.com/circuitalmynds/music_w1/blob/main/videos/Transplants - Gangsters and Thugs (Music Video)-UfNBpNWWhak.mp4?raw=true"
-        },
-        {
-            "id": "_ycgn6rySlM",
-            "name": "LOS CADETES DE LINARES PISTA SECRETA-_ycgn6rySlM.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/w1/videos/LOS CADETES DE LINARES PISTA SECRETA-_ycgn6rySlM.mp4",
-            "size": 5.0663149999999995,
-            "url": "https://github.com/circuitalmynds/music_w1/blob/main/videos/LOS CADETES DE LINARES PISTA SECRETA-_ycgn6rySlM.mp4?raw=true"
         }
     ],
-    "total_size": 1036.8293099999996
+    "total_size": 831.2250759999998
 }
